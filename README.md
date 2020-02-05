@@ -5,15 +5,9 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version : 5.2.4
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
+* Front End : Materialize CSS
 
 * How to run the test suite
 
